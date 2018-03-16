@@ -1,0 +1,31 @@
+button:hover {
+    opacity: 0.5;
+}
+button {
+    background-color: #FF0000;
+    color: white;
+    padding: 14px 20px;
+    margin-top: 8px;
+    width: 100%;
+}
+#nav ul{
+    display:inline-block;
+    list-style:none;
+}
+#nav li {
+	float: left;
+	height: 30px;
+	width: 100px;
+}
+#nav{
+    border:2px solid black;
+}
+form{
+    padding-top:3em;
+}
+body{
+
+    background-image:url("reg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}

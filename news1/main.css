@@ -1,0 +1,29 @@
+body{
+
+    text-align: center;
+    background-image: url(cvb.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color:white;
+}
+#nav ul {
+	display: inline-block;
+	list-style: none;
+
+}
+#nav li {
+	float: left;
+	height: 30px;
+	width: 100px;
+}
+#txt{
+    float:right;
+}
+#nav{
+    background-image: url(bg-navigation.png);
+	clear: both;
+	height: 50px;
+	width: 860px;
+	margin: 0 auto;
+	padding: 1px;
+}

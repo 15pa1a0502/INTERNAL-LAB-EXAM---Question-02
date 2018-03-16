@@ -1,0 +1,43 @@
+#nav ul {
+	display: inline-block;
+	list-style: none;
+
+}
+#nav li {
+	float: left;
+	height: 30px;
+	width: 100px;
+}
+h1{
+    text-align: center;
+}
+#nav{
+        border:2px solid black;
+        background-image: url(bg-navigation.png);
+        clear: both;
+        height: 50px;
+        width: 860px;
+        margin: 0 auto;
+        padding: 1px;
+
+}
+#pic{
+    float:left;
+
+}
+#news{
+    float:right;
+    line-height:2;
+    word-spacing: 5px;
+    width:60%;
+    clear: both;
+    margin-top:-19em;
+    margin-left:10em;
+}
+#container{
+    margin:20px;
+
+}
+#comment{
+    clear:both;
+}
